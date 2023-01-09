@@ -18,7 +18,7 @@ services:
     ports:
       - 0000:5000
     volumes:
-      - ./flask-app:/opt/flask-app
+      - ./flask-app:/opt/hellon
 volumes:
     esdata1:
       driver: local
