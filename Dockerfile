@@ -2,7 +2,7 @@
 
 FROM ubuntu:18.04
 
-LABEL maintainer="Prakhar Srivastav <prakhar@prakhar.me>"
+
 
 
 RUN apt-get -yqq update
